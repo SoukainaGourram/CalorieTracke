@@ -9,7 +9,7 @@ Calorie Counter is a simple web application that allows users to track their dai
 - Clear form functionality to reset input fields.
 
 ### Prerequisites
-- Web browser (Google Chrome, Mozilla Firefox, etc.)
+ Web browser (Google Chrome, Mozilla Firefox, etc.)
   
 ### Usage
 - Input your meals and exercise activities in the respective sections.
