@@ -10,11 +10,11 @@ Calorie Counter is a simple web application that allows users to track their dai
 
 ### Prerequisites
 - Web browser (Google Chrome, Mozilla Firefox, etc.)
-- 
+  
 ### Usage
-Input your meals and exercise activities in the respective sections.
-Click the "Calculate Calories" button to see real-time updates.
-Use the "Clear Form" button to reset the form.
+- Input your meals and exercise activities in the respective sections.
+- Click the "Calculate Calories" button to see real-time updates.
+- Use the "Clear Form" button to reset the form.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
